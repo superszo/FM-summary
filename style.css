@@ -98,7 +98,7 @@ body {
 
 .summary {
     width: 80%;
-    margin: 38px 40px 46px; */
+    margin: 38px 40px 46px;
 }
 
 .summary h3 {
@@ -226,5 +226,4 @@ button:hover {
     .right {
         width: 100%;
     }
-}   
-    
+} 
